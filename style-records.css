@@ -1,0 +1,73 @@
+body {
+    font-family: poppins, sans-serif;
+    margin, padding: 0px;
+}
+
+h2{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.header {
+  
+    top: 0px;
+    background-color: white;
+    margin-left: 20px;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+table {
+    margin-left: 20px;
+    border: 1px solid #2a2a2a;
+    border-collapse: collapse;
+    color: #2a2a2a;
+}
+
+td {
+    border: 1px solid #2a2a2a;
+    padding: 8px;
+}
+
+.top-tour {
+    background-color: rgba(57, 252, 164, 0.972);
+}
+
+.top-week {
+    background-color: rgba(57, 252, 164, 0.972);
+   
+}
+
+.top {
+margin-left: 20px;
+}
+
+.top-s {
+    border: 2px solid grey;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.tt {
+    margin-top: 40px;
+}
+
+.updated {
+    margin-top: -15px;
+    margin-left: 20px;
+    font-size: 13px;
+}
+
+.top-scorer {
+    background-color: rgba(57, 252, 164, 0.972)
+}

@@ -1,0 +1,185 @@
+body {
+    font-family: poppins, sans-serif;
+    
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+
+.header {
+  
+    top: 0px;
+    background-color: white;
+    margin-left: 20px;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    margin-right: 20px;
+}
+
+
+
+.Main-title {
+    font-size: 40px;
+    font-family: poppins;
+    font-weight: bold;
+    color: #1852CF;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+.Org-by {
+    font-size: 20px;
+    font-family: poppins;
+    color: #FFA600;
+    margin-top: -50px;
+    margin-left: 50px;
+
+}
+
+.Join-button {
+    background-color: #FF2F56;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    font-style: poppins;
+    font-weight: medium;
+    margin-left: 50px;
+}
+
+.right {
+    writing-mode: vertical-rl;
+    position: absolute;
+}
+
+svg {
+    width: 70px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+    margin-bottom: 60px;
+}
+
+.scroll {
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.about-head {
+    margin-left: 50px;
+    color: #000000;
+
+}
+
+.about-topic {
+    margin-left: 50px;
+}
+
+.about {
+    margin-left: none;
+    background-color: #e3e3ff;
+    padding: 20px;
+    margin-right: 10px;
+}
+
+.fahad {
+    padding: 30px;
+}
+
+.Fahad-p {
+    width: 140px;
+    border-radius: 70px;
+    border: 2px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.f-p {
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.fahad-t {
+    text-align: center;
+}
+
+.ishak {
+    padding: 30px;
+}
+
+.ishak-p {
+    width: 140px;
+    border-radius: 70px;
+    border: 2px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.f-p {
+    margin-left: 50px;
+}
+
+.Ishak-t {
+    text-align: center;
+}
+
+
+.salman {
+    padding: 30px;
+}
+
+.salman-p {
+    width: 140px;
+    border-radius: 70px;
+    border: 2px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.f-p {
+    margin-left: 50px;
+}
+
+.salman-t {
+    text-align: center;
+}
+
+.foot-d {
+    background-color: #d3d3d3;
+    margin: 0px;
+    padding: 30px;
+}
+
+.foot {
+text-align: center;
+}
+
+.b-div {
+    margin-bottom: 30px;
+    width: 400px;
+    margin: auto;
+    width: 50%;   
+    margin-bottom: 50px;
+}
+
+.join-b-2 {
+margin-right: 10px;
+}
+
+.go-top-s {
+        }
